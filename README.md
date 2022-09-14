@@ -25,6 +25,29 @@
 - ### Framework フォーム
   ![image](https://user-images.githubusercontent.com/1501327/190078721-2486b334-ef46-43ae-98e0-0e30c87a63ce.png)\
   ![image](https://user-images.githubusercontent.com/1501327/190084859-7e0bd1b5-8561-46af-ae23-ac45605940af.png)
+  ```cs
+  using System;
+  using System.Collections.Generic;
+  using System.ComponentModel;
+  using System.Data;
+  using System.Drawing;
+  using System.Linq;
+  using System.Text;
+  using System.Threading.Tasks;
+  using System.Windows.Forms;
+
+  namespace WindowsFormsApp
+  {
+      public partial class Form1 : Form
+      {
+          public Form1()
+          {
+              InitializeComponent();
+          }
+      }
+  }
+  ```
+  ![image](https://user-images.githubusercontent.com/1501327/190085074-4ca5f504-a907-4491-bc46-8bc61a49d75d.png)
 
 
 - ### .NET 6.0 コンソール
