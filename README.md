@@ -22,7 +22,7 @@
       }
   }  
   ```
-  ![image](https://user-images.githubusercontent.com/1501327/190082427-781168d3-d377-4b0c-8dc3-1e4db1034ae6.png)
+  ![image](https://user-images.githubusercontent.com/1501327/190082523-01513117-bd84-4234-94ba-1970b470a314.png)
 
 
 - ### .NET 6.0 フォーム
