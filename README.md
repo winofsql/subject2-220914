@@ -2,7 +2,7 @@
 
 - ### Framework コンソール
   ![image](https://user-images.githubusercontent.com/1501327/190078315-6a87b50d-fcc8-423e-9e7e-070db43f489c.png)\
-  ![image](https://user-images.githubusercontent.com/1501327/190082930-e67c1d49-af28-4b2c-9e2b-8bddfd37dded.png)
+  ![image](https://user-images.githubusercontent.com/1501327/190083026-98f0a93f-92dc-4a79-9fc6-3dbc041c688d.png)
 
 
 - ### Framework フォーム
