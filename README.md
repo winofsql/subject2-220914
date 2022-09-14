@@ -24,7 +24,7 @@
 
 - ### Framework フォーム
   ![image](https://user-images.githubusercontent.com/1501327/190078721-2486b334-ef46-43ae-98e0-0e30c87a63ce.png)\
-  ![image](https://user-images.githubusercontent.com/1501327/190084684-6891790d-efb0-4dc3-9d5c-5dbb8f4ee9b0.png)
+  ![image](https://user-images.githubusercontent.com/1501327/190084768-f636b989-4fbf-421a-845f-9ad7cc60dc57.png)
 
 
 - ### .NET 6.0 コンソール
