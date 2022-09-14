@@ -3,7 +3,24 @@
 - ### Framework コンソール
   ![image](https://user-images.githubusercontent.com/1501327/190078315-6a87b50d-fcc8-423e-9e7e-070db43f489c.png)\
   ![image](https://user-images.githubusercontent.com/1501327/190083205-52dc78e7-8641-4502-a68c-4e3d5c6ccfe9.png)
+  ```cs
+  using System;
+  using System.Collections.Generic;
+  using System.Linq;
+  using System.Text;
+  using System.Threading.Tasks;
 
+  namespace ConsoleApp
+  {
+      internal class Program
+      {
+          static void Main(string[] args)
+          {
+          }
+      }
+  }
+  ```
+  ![image](https://user-images.githubusercontent.com/1501327/190084284-7e09a588-9079-43a1-98a0-dfde86625268.png)
 
 - ### Framework フォーム
   ![image](https://user-images.githubusercontent.com/1501327/190078721-2486b334-ef46-43ae-98e0-0e30c87a63ce.png)
